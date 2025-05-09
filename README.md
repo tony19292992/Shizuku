@@ -101,3 +101,4 @@ The code for this project is available under the Apache-2.0 license.
 You are **FORBIDDEN** to distribute the apk compiled by **you**
 (including modified, e.g., rename app name "Shizuku" to something else)
 to any store (IBNLT Google Play Store, F-Droid, Amazon Appstore etc.).
+adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
